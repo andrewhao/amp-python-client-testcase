@@ -1,0 +1,1 @@
+amp-python-thin-scaledinference==1.0.5
